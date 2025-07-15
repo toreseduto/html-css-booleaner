@@ -1,0 +1,13 @@
+header {
+  padding: 20px;
+}
+
+.logo-bg {
+  background: #67C7E3 url('img/pattern.png') repeat-x;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.logo {
+  height: 50px;
+}
